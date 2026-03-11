@@ -36,3 +36,23 @@ Before running the tool, make sure you have the following installed:
 - PowerShell 5.1 or newer (Windows) / PowerShell Core (cross-platform)
 
 ---
+
+## 🎬 Usage
+
+1. Open **PowerShell**.  
+2. Navigate to the folder where your script is located, for example:  
+   ```powershell
+   cd C:\PATH\TO\YOUR\GITHUBTOOL\gitool.ps1
+   ```
+**Optional Shortcut: Run `gitool` from anywhere**  
+
+Instead of navigating to the script folder every time, you can:  
+
+1. Open **Edit Environment Variables** in Windows.  
+2. Add the **directory path** where `gitool.ps1` is located (e.g., `C:\PATH\TO\YOUR\GITHUBTOOL`) to your **system PATH**.  
+3. Open a new PowerShell or Command Prompt window.  
+4. Now you can simply type:  
+   ```powershell or CMD
+   gitool
+   ```
+   
