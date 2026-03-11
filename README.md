@@ -2,7 +2,6 @@
 
 ![PowerShell](https://img.shields.io/badge/Language-PowerShell-blue?logo=powershell)
 ![GitHub CLI](https://img.shields.io/badge/GitHub-CLI-black?logo=github)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 > A sleek **PowerShell menu tool** to manage Git and GitHub repositories with ease. Built by **Oxygene**.
 
