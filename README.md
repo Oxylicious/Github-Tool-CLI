@@ -26,3 +26,13 @@
   - Easy navigation between options
 
 ---
+
+## ⚡ Requirements
+
+Before running the tool, make sure you have the following installed:
+
+- [Git](https://git-scm.com/) – for version control  
+- [GitHub CLI (`gh`)](https://cli.github.com/) – for authentication and repository management  
+- PowerShell 5.1 or newer (Windows) / PowerShell Core (cross-platform)
+
+---
